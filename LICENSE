@@ -1,3 +1,18 @@
+This is hard fork/clone of https://github.com/fgbs/unifi/commit/df264dbb038bfcbaad031c41ddb2efc4f57ddc38
+
+I used the original as a base and have added functionality as i have needed it for my work @ Touchpoint.io
+
+The base was open, and so this shall remain open. Everything that i add has been for me as needed for my work. Nothing beyond that.
+
+Almost all  the additional functionality came from a lot of time in chrome inspector and use of this delightful `curl -> requestslib` tool:
+https://curl.trillworks.com/
+
+As such, my notes and implementation might not be 100% correct. What you see is what get. It worked for me, and might work for you.
+
+So everything you'll read below about "as is" stands!
+
+=====
+
 Copyright (C) 2018 Felipe Barros
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
