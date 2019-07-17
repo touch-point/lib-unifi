@@ -12,3 +12,6 @@ class CredentialsMissing(Exception):
 
 class ConnectionError(Exception):
     pass
+
+class ValidationError(Exception):
+    """Couldn't confirm user supplied data is good"""
